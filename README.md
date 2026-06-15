@@ -136,8 +136,7 @@ Retaining customers longer increases total revenue generated per customer while 
 Risk-based targeting allows marketing and customer success teams to focus resources on customers most likely to churn.
 
 
-Screenshot Of Project:https://github.com/nupurchatterjee01-com/Telecom-Customer-Churn-Analysis/blob/main/Customer_Behaviour_Analysis.png
-
+Screenshot Of Project:
 
 
 
