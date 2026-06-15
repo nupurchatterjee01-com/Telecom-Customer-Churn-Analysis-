@@ -138,8 +138,12 @@ Risk-based targeting allows marketing and customer success teams to focus resour
 
 
 Screenshot Of Project:
-Telecom_Dashboard_Overview
+1.Telecom_Dashboard_Overview :
 https://github.com/nupurchatterjee01-com/Telecom-Customer-Churn-Analysis/blob/main/1.Telecom_Dashboard_overview.png
+
+2.Customer_Behaviour_Analysis :
+https://github.com/nupurchatterjee01-com/Telecom-Customer-Churn-Analysis/blob/main/2.%20Customer_Behaviour_Analysis.png
+
 
 
 
